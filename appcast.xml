@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MiniLetras</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 17 Nov 2026 00:00:03 +0100</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<li>Mini reproductor en barra para Spotify y Apple Music.</li>
+<li>Letra sincronizada línea a línea, con resaltado tipo karaoke.</li>
+<li>Modo «solo letra», modo claro y oscuro, y seis posiciones con imán.</li>
+<li>Nombre de la canción anterior y siguiente (Spotify mediante su API).</li>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/zaba-la/miniletras-releases/main/MiniLetras-1.0.0.dmg" length="2906265" type="application/octet-stream" sparkle:edSignature="mB8V6UON1XbJ9tsB9m8Br1aesl/SVdQqFdFfg3g/gM6i3Hjw2PSqs9NFJCreOaGYT/VG5Dbtbs9K8uzzBBaFDA=="/>
+        </item>
+    </channel>
+</rss>
