@@ -3,17 +3,26 @@
     <channel>
         <title>MiniLetras</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Wed, 18 Nov 2026 09:58:06 +0100</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<li>Nueva opción «Ocultar widget» en ⚙︎ y en la barra de menús; para volver a verlo, usa «Mostrar widget» o abre MiniLetras de nuevo.</li>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/zaba-la/miniletras-releases/main/MiniLetras-1.0.1.dmg" length="2915882" type="application/octet-stream" sparkle:edSignature="b+kV+j3Io9i3IrAmgBl/dV3hr7MMZts2B7rX9lJYf3D7E3sjf24CscUxWgXxUmuUvrU/y/EktsuuOOsdHHbAAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/zaba-la/miniletras-releases/main/MiniLetras12-9.delta" sparkle:deltaFrom="9" length="80518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="o3Q0rwqcN/Jh7WzVQucwot2ygQu+yVE5UxyBYywB67Lq3zFRT1HpLmRiCOob/SBhrZ/n79yOg1ju9BW4qPbFCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Tue, 17 Nov 2026 00:00:03 +0100</pubDate>
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<li>Mini reproductor en barra para Spotify y Apple Music.</li>
-<li>Letra sincronizada línea a línea, con resaltado tipo karaoke.</li>
-<li>Modo «solo letra», modo claro y oscuro, y seis posiciones con imán.</li>
-<li>Nombre de la canción anterior y siguiente (Spotify mediante su API).</li>
-]]></description>
             <enclosure url="https://raw.githubusercontent.com/zaba-la/miniletras-releases/main/MiniLetras-1.0.0.dmg" length="2906265" type="application/octet-stream" sparkle:edSignature="mB8V6UON1XbJ9tsB9m8Br1aesl/SVdQqFdFfg3g/gM6i3Hjw2PSqs9NFJCreOaGYT/VG5Dbtbs9K8uzzBBaFDA=="/>
         </item>
     </channel>
